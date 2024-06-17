@@ -3,14 +3,14 @@ body
     color: #333;
     text-align: center;
     font-family: Arial;
-    font-size: 18px;
+    font-size: 22px;
     margin: 0;
     padding: 0;
 }
 
 #cabecera
 {
-    background: rgba(109, 194, 35, 0.753);
+    background: rgba(49, 95, 9, 0.753);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
