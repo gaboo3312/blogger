@@ -34,11 +34,11 @@ body
     margin: 0 auto;
 }
 
-#container h1,h2
+#container h1,h2,h3
 {
     font-size: 20px;
 }
-#post,#post1
+#post,#post1,#post2
 {
     padding: 1em;
     background: rgb(162, 196, 171);
