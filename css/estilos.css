@@ -53,6 +53,13 @@ body
     margin: 03;
 
 }
+#footer 
+{
+    background: rgb(61, 216, 172);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
 
 
 
