@@ -1,5 +1,18 @@
+<<<<<<< HEAD
 Esta es la historia de Gerardo Hernandez Real a
 
 Flaquito acaba de cumplir 33 años de edad 
 
 nada de lo que lo planeo le esta saliendo como lo tenia pensado
+=======
+Esta es la historia de Gerardo Herandez
+
+Esta vez las cosas seran diferentes a todo lo que alguna vez se penso 
+
+tiene 33 años y nació en Mexico
+
+Empezara a relizar su cv para buscar un trabajo la verdad considero que sera un poco dificil ayudarle
+
+
+hoy fue a ver la formula uno aunque checo no tuvo el mejor dia no dejara de quererlo jajajja (si es medio raro eso )
+>>>>>>> 372f217843e4ef8077b11d4d693a9bba33ef95df
