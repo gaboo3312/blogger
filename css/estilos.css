@@ -10,12 +10,17 @@ body
 
 #cabecera
 {
-    background: rgba(24, 14, 62, 0.753);
+    background: rgb(93, 97, 213);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: rgb(160, 168, 244);
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+#cabecera #logo
+{
+    width: 29px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -34,17 +39,24 @@ body
     margin: 0 auto;
 }
 
-#container h1,h2
+#container h1,h2,h3
 {
     font-size: 20px;
 }
-#post,#post1
+#post,#post1,#post2
 {
     padding: 1em;
     background: rgb(162, 196, 171);
     color :rgb(11, 63, 152);
     margin: 03;
 
+}
+#footer 
+{
+    background: rgb(212, 124, 17);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
 
 
