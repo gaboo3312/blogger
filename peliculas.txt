@@ -1,1 +1,5 @@
 se haran las pruebas correspondientes para poner nombres de peliculas en este proyecto
+
+
+
+se comenzara a enviar los prospectos de peliculas o de cortos de las mismas para hacer el proyecto mas ameno
